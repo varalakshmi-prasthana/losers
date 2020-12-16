@@ -172,7 +172,7 @@ p {
 
 .tm-site-name-container-inner {
   display: inline-block;
-  margin-left: auto;
+  /*margin-left: auto;*/
   margin-right: auto;
 }
 
@@ -589,6 +589,10 @@ hr {
 
 .fa-6x {
   font-size: 6em;
+}
+
+.f-22 {
+  font-size: 22px;
 }
 
 .tm-overlay-container {
